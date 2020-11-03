@@ -1,2 +1,1 @@
-# leaderboard
-contians the leaderboard
+# beat
